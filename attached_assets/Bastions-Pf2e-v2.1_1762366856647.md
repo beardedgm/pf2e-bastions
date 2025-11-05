@@ -1,4 +1,4 @@
-# Bastions - Pathfinder 2e Remastered (v2.1 Complete)
+# Bastions - Pathfinder 2e Remastered (v2.0 Complete - Fixed Costs)
 
 If you include Bastions in your campaign, characters gain access to them at 5th level. You and the players can decide together how each Bastion comes into being. A character might inherit land, be granted a parcel to develop, or take over an existing structure and renovate it.
 
